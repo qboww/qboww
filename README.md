@@ -1,7 +1,8 @@
 # Software Engineer
-> Graduate of the Software Engineering and Business faculty at [National Aerospace University – Kharkiv Aviation Institute](https://khai.edu/ua/), currently pursuing a Master’s degree in Software Engineering.
+> SE graduate at [National Aerospace University – Kharkiv Aviation Institute](https://khai.edu/ua/), currently pursuing a Master’s degree.
 >
 > Passed certifications [Link](https://drive.google.com/drive/folders/1hVbQNhJGryLn6sOC-wVVqqti5A2VSOph?usp=sharing)
+> Resume [Link](https://drive.google.com/file/d/1sFoo4heZMh0PMUsUtiNsqh638ve_cb_Z/view?usp=sharing)
 
 ## Currently working with
 > Technologies I'm learning now
