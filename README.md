@@ -3,7 +3,7 @@
 >
 > Passed certifications [Link](https://drive.google.com/drive/folders/1hVbQNhJGryLn6sOC-wVVqqti5A2VSOph?usp=sharing)
 > 
-> Resume [Link](https://drive.google.com/file/d/1sFoo4heZMh0PMUsUtiNsqh638ve_cb_Z/view?usp=sharing)
+> Resume [Link]([https://drive.google.com/file/d/1sFoo4heZMh0PMUsUtiNsqh638ve_cb_Z/view?usp=sharing](https://drive.google.com/file/d/1aaza_-4Su7lrTuVsgq0_SDvpZB8Wdx9y/view?usp=sharing))
 
 ## Currently working with
 > Technologies I'm learning now
